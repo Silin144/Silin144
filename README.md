@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Silin Raj Gupta</h1>
+<h1 align="center">Hi 👋 I'm Silin</h1>
 <h3 align="center">I'm a Computer Science student at the University of Waterloo, deeply passionate about developing AI-driven solutions and scalable web applications, with a focus on leveraging Python, machine learning, and modern tools to craft innovative systems that prioritize performance, usability, and impactful real-world outcomes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silin144&label=Profile%20views&color=0e75b6&style=flat" alt="silin144" /> </p>
